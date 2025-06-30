@@ -6,7 +6,7 @@ This project demonstrates a simple but powerful healthcare analytics dashboard I
 
 ## 📌 Project Overview
 
-- **Domain**: Healthcare / Hospital Management
+- **Domain**: HospitalManagement
 - **Tools Used**: SQL Server, Power BI
 - **Skills Demonstrated**: SQL querying, data modeling, DAX logic, Power BI visualization
 - **Goal**: To uncover insights into hospital operations like doctor workload, billing trends, and patient demographics.
